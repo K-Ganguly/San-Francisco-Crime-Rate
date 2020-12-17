@@ -1,0 +1,1 @@
+This is a visualization of the crime rates of San Francisco using a Choropleth map, being the final project of "Data Visualization in Python" course by IBM on Coursera. The URL for the dataset is mentioned on the attached notebook and the GeoJSON file was provided by IBM.
